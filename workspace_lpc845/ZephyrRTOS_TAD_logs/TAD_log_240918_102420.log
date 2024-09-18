@@ -1,0 +1,24 @@
+"Task Aware Debugger for GDB" version 11.10.0 (202404041456)
+Copyright 2016-2023 NXP
+==================================
+10:21:57.292 INFO: [ZephyrRTOS] .config file could not be read [C:\Users\Gabriel\Documents\GitHub\curso-lse\workspace_lpc845\01_blinky\Debug\.config (El sistema no puede encontrar el archivo especificado)]
+10:21:57.293 INFO: [TadModel] DSF session ID 1 has started.
+10:22:06.157 INFO: [TadState] TAD state changed: DEBUG_STARTED -> DEBUG_INIT_0 (RESUMED, USER_REQUEST)
+10:22:06.213 INFO: [TadState] TAD state changed: DEBUG_INIT_0 -> DEBUG_INIT_1 (SUSPENDED, SIGNAL)
+10:22:07.114 INFO: [TadState] TAD state changed: DEBUG_INIT_1 -> DEBUG_SUSPENDED (RESUMED, USER_REQUEST)
+10:22:07.290 INFO: [TadState] TAD state changed: DEBUG_SUSPENDED -> DEBUG_SUSPENDED (SUSPENDED, BREAKPOINT)
+10:22:11.253 INFO: [TadState] TAD state changed: DEBUG_SUSPENDED -> DEBUG_RESUMED (RESUMED, USER_REQUEST)
+10:22:11.353 INFO: [TadState] TAD state changed: DEBUG_RESUMED -> READY (SUSPENDED, BREAKPOINT)
+10:22:32.916 INFO: [TadState] TAD state changed: READY -> DEBUG_RESUMED (RESUMED, USER_REQUEST)
+10:22:33.97 INFO: [TadState] TAD state changed: DEBUG_RESUMED -> READY (SUSPENDED, BREAKPOINT)
+10:22:49.786 INFO: [TadState] TAD state changed: READY -> DEBUG_RESUMED (RESUMED, STEP)
+10:22:51.125 INFO: [TadState] TAD state changed: DEBUG_RESUMED -> READY (SUSPENDED, STEP)
+10:22:57.874 INFO: [TadState] TAD state changed: READY -> DEBUG_RESUMED (RESUMED, USER_REQUEST)
+10:22:57.968 INFO: [TadState] TAD state changed: DEBUG_RESUMED -> READY (SUSPENDED, BREAKPOINT)
+10:23:05.03 INFO: [TadState] TAD state changed: READY -> DEBUG_RESUMED (RESUMED, STEP)
+10:23:06.200 INFO: [TadState] TAD state changed: DEBUG_RESUMED -> READY (SUSPENDED, STEP)
+10:23:48.877 INFO: [TadState] TAD state changed: READY -> DEBUG_RESUMED (RESUMED, USER_REQUEST)
+10:23:48.977 INFO: [TadState] TAD state changed: DEBUG_RESUMED -> READY (SUSPENDED, BREAKPOINT)
+10:23:53.364 INFO: [TadState] TAD state changed: READY -> DEBUG_RESUMED (RESUMED, STEP)
+10:23:54.482 INFO: [TadState] TAD state changed: DEBUG_RESUMED -> READY (SUSPENDED, STEP)
+10:24:20.441 INFO: [TadModel] DSF session ID 1 has ended.
